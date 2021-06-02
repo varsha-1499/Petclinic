@@ -1,0 +1,6 @@
+Vishwas Dave6:44 PM
+      `${sonarBaseURL}/api/rules/search?activation=true&ps=${pageSize}&p=${page}${filterRule}`,
+Vishwas Dave6:46 PM
+/api/issues/search?componentKeys=twill&ps=500&p=1
+
+https://www.startxlabs.com/post/how-to-install-or-update-postman-on-linux/
