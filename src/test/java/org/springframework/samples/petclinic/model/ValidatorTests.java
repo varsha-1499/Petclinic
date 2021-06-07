@@ -18,6 +18,7 @@ package org.springframework.samples.petclinic.model;
 
 import java.util.Locale;
 import java.util.Set;
+import java.util.Set;
 
 import javax.validation.ConstraintViolation;
 import javax.validation.Validator;
