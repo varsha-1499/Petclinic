@@ -21,14 +21,14 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.samples.petclinic.vet.VetRepository;
 
-@SpringBootTest
+@SpringBootTest 
 class PetclinicIntegrationTests {
 
 	@Autowired
 	private VetRepository vets;
 
-	@Test
-	void testFindAll() throws Exception {
+	@Test 
+	void testFindAll() throws Exception  {
 		vets.findAll();
 		vets.findAll(); // served from cache
 	}
