@@ -1,0 +1,7 @@
+INFO: ------------------------------------------ -- 2021-05-17 10:23:40 AM
+INFO: Scan started -- 2021-05-17 10:23:40 AM
+INFO: Script Version : 1.0 -- 2021-05-17 10:23:40 AM
+INFO: latest file identified : C:\Users\k\Downloads\scan_files\sample-scan-files-master\acunetix\acunetix_invalid_xml_file.xml -- 2021-05-17 10:23:40 AM
+ERROR: Failed to fetch signed url: HTTPSConnectionPool(host='devv2.armorcode.ai', port=443): Max retries exceeded with url: /client/utils/s3/upload (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001E983FAD940>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')) -- 2021-05-17 10:23:41 AM
+ERROR: Signed Url not generated. -- 2021-05-17 10:23:41 AM
+INFO: Finished at: 17/05/2021 10:23:41 -- 2021-05-17 10:23:41 AM
